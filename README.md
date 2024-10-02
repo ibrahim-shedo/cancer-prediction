@@ -46,7 +46,5 @@ The following libraries are required for running the model:
 - `scikit-learn`: For model building and evaluation.
 - `numpy`: For numerical computations.
 
-You can install the required libraries using the following command:
-
 Conclusion
 This project demonstrates the use of logistic regression to predict whether a tumor is benign or malignant based on several physical characteristics. The logistic regression model is evaluated using performance metrics such as accuracy, precision, recall, and confusion matrix to measure its effectiveness in diagnosing cancer.
